@@ -2,7 +2,7 @@ url: https://mengmengdian.github.io
 baseurl: 
 
 # Site settings
-title: 萌萌店
+title: 乐旺美食
 email: xianxusanquan@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
@@ -14,37 +14,48 @@ color:
 
 # Team names, titles and social links
 people:
-- name: 老大
+- name: 覃昌旺
   pic: profile_1
-  position: 职位
+  position: 总经理
   social:
-    - title: weibo
-      url: #
-    - title: wechat
+    - title: envelope
       url: #
     - title: qq
+      url: #
+    - title: weibo
       url: #
 
 - name: 三砼
   pic: profile_2
-  position: 职位
+  position: 副总经理
   social:
-    - title: weibo
-      url: #
-    - title: wechat
-      url: #
+    - title: envelope
+      url: 
     - title: qq
       url: #
+    - title: wordpress
+      url: http://bbs.sciencenet.cn/home.php?mod=space&uid=420671&view=chunge
 
 - name: 贤婿
   pic: profile_3
   position: 职位
   social:
+    - title: envelope
+      url: mailto:hxianxu@163.com
+    - title: qq
+      url: 
     - title: weibo
       url: #
-    - title: wechat
+
+- name: 卞乐艳
+  pic: profile_3
+  position: 职位
+  social:
+    - title: envelope
       url: #
     - title: qq
+      url: #
+    - title: weibo
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
