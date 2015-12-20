@@ -1,9 +1,9 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://mengmengdian.github.io
+baseurl: /mengmengdian
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: 需要一些TITLE
+email: xianxusanquan@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -14,18 +14,18 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: 陈仁全
   pic: 1
   position: Lead Designer
   social:
-    - title: twitter
+    - title: 
       url: #
     - title: facebook
       url: #
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: 侯贤旭
   pic: 2
   position: Lead Marketer
   social:
@@ -36,7 +36,7 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: 某某某
   pic: 3
   position: Lead Developer
   social:
@@ -48,17 +48,17 @@ people:
       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+# social:
+#   - title: twitter
+#     url: http://twitter.com/jekyllrb
+#   - title: facebook
+#     url:
+#   - title: stack-overflow
+#     url: http://stackoverflow.com/questions/tagged/jekyll
+#   - title: bitbucket 
+#     url: http://bitbucket.org/jekyll
+#   - title: github
+#     url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
